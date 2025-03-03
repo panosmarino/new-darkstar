@@ -170,7 +170,7 @@ export default function Work() {
           </div>
           <div className="mt-12 text-center">
             <p className="text-xl text-gray-700">
-              Interested in working with us? Reach out at{' '}
+              Interested in working with us? Reach out at&nbsp;
               <a 
                 href="mailto:darkstar.pictures2023@gmail.com" 
                 className="text-black font-semibold hover:text-gray-600 transition-colors"

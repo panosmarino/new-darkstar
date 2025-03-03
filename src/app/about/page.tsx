@@ -30,7 +30,7 @@ export default function About() {
         <div className="max-w-2xl mt-20">
           <h1 className="text-black text-8xl font-bold mb-8">About Us</h1>
           <p className="text-black text-xl leading-relaxed">
-            Darkstar Pictures began as a creative experiment during Junior High 2, sparked by a shared passion for filmmaking. What started as a few school project videos quickly grew into a collaborative venture. Inspired by the positive feedback and the thrill of creation, we branded our efforts as "Darkstar Pictures." Over the past year, we've expanded our scope by contributing to the media aspects of school theatrical plays, teaming up with fellow classmates to bring dynamic visuals to the stage. Our journey is just beginning, and we're excited to share our growing portfolio with the world.
+            Darkstar Pictures began as a creative experiment during Junior High 2, sparked by a shared passion for filmmaking. What started as a few school project videos quickly grew into a collaborative venture. Inspired by the positive feedback and the thrill of creation, we branded our efforts as &ldquo;Darkstar Pictures.&rdquo; Over the past year, we&apos;ve expanded our scope by contributing to the media aspects of school theatrical plays, teaming up with fellow classmates to bring dynamic visuals to the stage. Our journey is just beginning, and we&apos;re excited to share our growing portfolio with the world.
           </p>
         </div>
         <div className="hidden tablet:block flex-shrink-0 mt-8">
